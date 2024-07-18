@@ -6,6 +6,7 @@
 
   <groupId>MINDFIRE_Demo_Project</groupId>
   <artifactId>MINDFIRE_Demo_Project</artifactId>
+  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>MINDFIRE_Demo_Project</name>
